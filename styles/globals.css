@@ -14,3 +14,18 @@ a {
 * {
   box-sizing: border-box;
 }
+
+#Header {
+  margin-left: 8px;
+}
+
+#searchText {
+  display: block;
+  margin: 0 auto;
+}
+
+#btn {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
