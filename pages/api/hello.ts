@@ -11,3 +11,8 @@ export default function handler(
 ) {
   res.status(200).json({ name: 'John Doe' })
 }
+
+
+
+//http://localhost:3000/api/hello.ts
+
