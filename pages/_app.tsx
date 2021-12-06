@@ -24,10 +24,10 @@ function MyApp() {
 
   return (
     <div className='App'>
-      <h1 id='Header'> Recipe Search</h1>
+      <h1 className='Header'> Recipe Search</h1>
       <form className='searchForm'>
-        <input id='searchText' type="text" />
-        <button id='btn'className=''>Search</button>
+        <input className='searchText' type="text" />
+        <button className='btn'>Search</button>
       </form>
     </div>
   );

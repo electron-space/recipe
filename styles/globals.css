@@ -15,16 +15,16 @@ a {
   box-sizing: border-box;
 }
 
-#Header {
+.Header {
   margin-left: 8px;
 }
 
-#searchText {
+.searchText {
   display: block;
   margin: 0 auto;
 }
 
-#btn {
+.btn {
   display: block;
   margin: 0 auto;
   margin-top: 10px;
